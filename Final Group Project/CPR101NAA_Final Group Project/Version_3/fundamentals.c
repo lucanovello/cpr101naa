@@ -2,10 +2,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define BUFFER_SIZE 80
 #define NUM_INPUT_SIZE 10
-//#include "fundamentals.h"
-
+#include "fundamentals.h"
+// V3
 void fundamentals(void) {
-	// V3
 	printf("*** Start of Copying Strings Demo ***\n");
 	char destination[BUFFER_SIZE];
 	char source[BUFFER_SIZE];

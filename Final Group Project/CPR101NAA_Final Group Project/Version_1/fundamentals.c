@@ -3,9 +3,8 @@
 #define BUFFER_SIZE 80
 #define NUM_INPUT_SIZE 10
 #include "fundamentals.h"
-
+// V1
 void fundamentals(void) {
-	// V1
 	printf("*** Start of Indexing Strings Demo ***\n");
 	char buffer1[BUFFER_SIZE];
 	char numInput[NUM_INPUT_SIZE];

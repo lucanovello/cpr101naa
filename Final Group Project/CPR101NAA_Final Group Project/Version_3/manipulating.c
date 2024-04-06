@@ -1,9 +1,8 @@
 // MANIPULATING SOURCE
 #define _CRT_SECURE_NO_WARNINGS
 #define BUFFER_SIZE 80
-//#include "manipulating.h"
-
-		// V3
+#include "manipulating.h"
+// V3
 void manipulating(void) {
 	printf("*** Start of Searching Strings Demo ***\n");
 	char haystack[BUFFER_SIZE];
